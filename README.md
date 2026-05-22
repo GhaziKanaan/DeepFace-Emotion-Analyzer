@@ -19,3 +19,11 @@
 - Improve model accuracy
 - Add real-time emotion detection
 - Deploy as web application
+## Project Outputs
+
+![Output 1](images/project-image.png)
+
+![Output 2](images/project-image-2.png)
+
+
+![Output 1](images/project-image-9.png)
